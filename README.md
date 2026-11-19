@@ -15,3 +15,4 @@ The project documentation is organized into the following sections:
 
 # Developers:
 - Mohammed Alshabibi - @m-devboss
+- Yahya Alalie
