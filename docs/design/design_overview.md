@@ -17,11 +17,11 @@
 
 ## أدلة مرحلة التصميم
 
-- [مخططات تدفق البيانات (DFD)](DFD/DATA_FLOW_DIAGRAMS.md)
-- [مخطط العلاقات بين الكيانات (ERD)](ERD/ENTITY_RELATIONSHIP_DIAGRAM.md)
-- [قاموس البيانات (Data Dictionary)](Data_Dictionary/DATABASE_DATA_DICTIONARY.md)
-- [الخوارزميات (Algorithms)](Algorithms/AUTHENTICATION_ALGORITHMS.md)
-- [مخططات التدفق (Flow Charts)](Flow_Charts/AUTHENTICATION_FLOW_CHARTS.md)
-- [الأدوات المستخدمة (Tools Used)](Tools_Used/DESIGN_TOOLS.md)
+- [مخططات تدفق البيانات (DFD)](dfd/data_flow_diagrams.md)
+- [مخطط العلاقات بين الكيانات (ERD)](erd/entity_relationship_diagram.md)
+- [قاموس البيانات (Data Dictionary)](data_dictionary/database_data_dictionary.md)
+- [الخوارزميات (Algorithms)](algorithms/authentication_algorithms.md)
+- [مخططات التدفق (Flow Charts)](flow_charts/authentication_flow_charts.md)
+- [الأدوات المستخدمة (Tools Used)](tools_used/design_tools.md)
 
 </div>
