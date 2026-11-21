@@ -12,7 +12,7 @@ The project documentation is organized into the following sections:
 | [Requirements](docs/analysis/requirements.md) | Functional and non-functional requirements and use cases. |
 | [Technical Overview](docs/analysis/technical-overview.md) | System components, technologies, and technical overview. |
 
-
+ 
 # Developers:
 - Mohammed Alshabibi - @m-devboss
 - Yahya Alalie
